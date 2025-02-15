@@ -2,7 +2,7 @@
 
  I'm a Junior Web Developer with a passion for **Technology** and **Web Development**.
 
-- 🌱 Currently learning and exploring more about **Git**, **React** and **MongoDB**
+- 🌱 Currently learning and exploring more about **React**, **Express** and **MongoDB**
 - 🧪 Developing a personal project to sharpen my skills, on both front and back end
 - 🚆 Enjoy watching videos about **public infrastructure** and learning more about the world around me.
 
